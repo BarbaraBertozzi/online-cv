@@ -7,32 +7,32 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Barbara Bertozzi
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: barbara.bertozzi at kit.edu
+    phone: 
+    website: #do not add http://
+    linkedin: 
+    xing: 
+    github: BarbaraBertozzi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Italian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: 
 
       - idiom: Spanish
         level: Professional
@@ -41,11 +41,9 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Ski mountaineering
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -57,66 +55,42 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Physics
+      university: Karlsruhe Institute of Technology
+      time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        During my PhD I investigated the ability of secondary aerosol particles to form cirrus cloud.
+    - degree: MSc in Physics of the Earth System
+      university: University of Bologna
+      time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+        Thesis title: "Feasibility study for
+        understanding ice cave microclimate through thermo-fluid dynamic approaches".
+        Supervisor: Prof. Dr. Silvana Di Sabatino
+    - degree: BSc in Physics
+      university: University of Modena
+      time: 2010 - 2013
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Thesis title: Irraggiamento ionico su
+        FePt L10 e caratterizzazione magnetica mediante riflettometria a neutroni".
+        Supervisor: Prof. Dr. Sergio Valeri
+# experiences:
+#    - role: Lead Developer
+#      time: 2015 - Present
+#      company: Startup Hubs, San Francisco
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#        error sit voluptatem accusantium doloremque laudantium, totam rem
+#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#        architecto beatae vitae dicta sunt explicabo.
+#          - Bullet point
+#          - Bullet point
+
 projects:
     title: Projects
     intro: >
